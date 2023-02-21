@@ -1,0 +1,96 @@
+[
+  {
+    "count": 16,
+    "description": "",
+    "id": 45,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Milk",
+    "parent": 0,
+    "slug": "Milk",
+    "image": "assets/images/categories/milk.png"
+  },
+  {
+    "count": 18,
+    "description": "",
+    "id": 45,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Curd",
+    "parent": 0,
+    "slug": "Curd",
+    "image": "assets/images/categories/fermentation.png"
+  },
+  {
+    "count": 19,
+    "description": "",
+    "id": 45,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Butter Milk",
+    "parent": 0,
+    "slug": "Butter Milk",
+    "image": "assets/images/categories/milk.png"
+  },
+  {
+    "count": 6,
+    "description": "",
+    "id": 18,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Cheese",
+    "parent": 16,
+    "slug": "Cheese",
+    "image": "assets/images/categories/cheese.png"
+
+  },
+  {
+    "count": 1,
+    "description": "",
+    "id": 53,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Butter",
+    "parent": 0,
+    "slug": "Butter",
+    "image": "assets/images/categories/cream.png"
+
+  },
+  {
+    "count": 14,
+    "description": "",
+    "id": 19,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Ghee",
+    "parent": 0,
+    "slug": "Ghee",
+    "image": "assets/images/categories/yogurt.png"
+
+  },
+
+  {
+    "count": 4,
+    "description": "",
+    "id": 21,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Paneer",
+    "parent": 45,
+    "slug": "Paneer",
+    "image": "assets/images/categories/custard.png"
+
+  },
+  {
+    "count": 14,
+    "description": "",
+    "id": 19,
+    "isSelected": false,
+    "menu_order": 0,
+    "name": "Sweets",
+    "parent": 0,
+    "slug": "Sweets",
+    "image": "assets/images/categories/custard.png"
+
+  }
+]

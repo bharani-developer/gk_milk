@@ -1,0 +1,64 @@
+import 'package:flutter/material.dart';
+import 'package:gk_milk/models/billpay_model.dart';
+import 'package:nb_utils/nb_utils.dart';
+
+// import 'package:gk_milk/models/app_model.dart';
+import 'package:gk_milk/utils/data_provider.dart';
+
+class WASelectBankComponent extends StatefulWidget {
+  static String tag = '/WASelectBankComponent';
+
+  const WASelectBankComponent({super.key});
+
+  @override
+  WASelectBankComponentState createState() => WASelectBankComponentState();
+}
+
+class WASelectBankComponentState extends State<WASelectBankComponent> {
+  List<BillPayModel> selectBankList = selectBillList();
+
+  @override
+  void initState() {
+    super.initState();
+    init();
+  }
+
+  init() async {
+    //
+  }
+
+  @override
+  void setState(fn) {
+    if (mounted) super.setState(fn);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return SingleChildScrollView(
+      scrollDirection: Axis.horizontal,
+      child: Wrap(
+        direction: Axis.horizontal,
+        spacing: 16,
+        children: selectBankList.map((cardItem) {
+          int index = selectBankList.indexOf(cardItem);
+          BillPayModel mData = selectBankList[index];
+          return Container(
+            height: 100,
+            width: 140,
+            padding: const EdgeInsets.all(16),
+            decoration: boxDecorationRoundedWithShadow(12,
+                backgroundColor: context.cardColor),
+            child: Column(
+              children: [
+                Image.asset(mData.image!,
+                    height: 40, width: 40, fit: BoxFit.fill),
+                8.height,
+                Text(mData.title!, style: boldTextStyle(size: 12)),
+              ],
+            ),
+          );
+        }).toList(),
+      ).paddingAll(16),
+    );
+  }
+}

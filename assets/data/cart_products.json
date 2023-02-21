@@ -1,0 +1,515 @@
+[
+  {
+    "id": 1,
+    "name": "Cow Milk",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "This adorable dress features denim fabric, round neck, short sleeve styling, solid color design, back zipper closure. Matching bet included. Make sure to add it to your wardrobe and you will love it.",
+    "short_description": "This adorable dress features denim fabric, round neck, short sleeve styling, solid color design, back zipper closure. Matching bet included. Make sure to add it to your wardrobe and you will love it.",
+    "price": "15",
+    "regular_price": "16",
+    "sale_price": "15",
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>15</span>",
+    "on_sale": true,
+    "purchasable": true,
+    "weight": "",
+    "dimensions": {
+      "length": "50",
+      "width": "50",
+      "height": "30"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "reviews_allowed": true,
+    "average_rating": "3.00",
+    "rating_count": 1,
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "name": "Milk"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 141,
+        "date_created": "2019-07-19T04:54:51",
+        "date_created_gmt": "2019-07-19T04:54:51",
+        "date_modified": "2019-07-19T04:54:51",
+        "date_modified_gmt": "2019-07-19T04:54:51",
+        "src": "assets/images/products/milk/cow_milk.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 186,
+        "date_created": "2019-07-19T12:16:45",
+        "date_created_gmt": "2019-07-19T12:16:45",
+        "date_modified": "2019-07-19T12:16:45",
+        "date_modified_gmt": "2019-07-19T12:16:45",
+        "src": "assets/images/products/milk/cow_milk.jpg",
+        "name": "02",
+        "alt": ""
+      },
+      {
+        "id": 187,
+        "date_created": "2019-07-19T12:17:07",
+        "date_created_gmt": "2019-07-19T12:17:07",
+        "date_modified": "2019-07-19T12:17:07",
+        "date_modified_gmt": "2019-07-19T12:17:07",
+        "src": "assets/images/products/milk/cow_milk.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 189,
+        "date_created": "2019-07-19T12:17:08",
+        "date_created_gmt": "2019-07-19T12:17:08",
+        "date_modified": "2019-07-19T12:17:08",
+        "date_modified_gmt": "2019-07-19T12:17:08",
+        "src": "assets/images/products/milk/cow_milk.jpg",
+        "name": "03",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Color",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "#0C5A93",
+          "#BDBDBD",
+          "#dd0202"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Size",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "M",
+          "S"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Brand",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "Carter's",
+          "Fendi"
+        ]
+      }
+    ],
+    "default_attributes": []
+  },
+  {
+    "id": 8,
+    "name": "Cup Curd",
+    "date_created": "2019-07-18T07:02:04",
+    "date_created_gmt": "2019-07-18T07:02:04",
+    "date_modified": "2019-08-27T11:48:15",
+    "date_modified_gmt": "2019-08-27T11:48:15",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "Our Forever Pumps are a classic and elegant style that you will wear season after season. Made in Italy from our velvety suede in rich black, pair features a feminine pointed toe, sculpted cut outs at the side and sits upon a seductive stiletto heel.",
+    "short_description": "Our Forever Pumps are a classic and elegant style that you will wear season after season. Made in Italy from our velvety suede in rich black, pair features a feminine pointed toe, sculpted cut outs at the side and sits upon a seductive stiletto heel.",
+    "sku": "wp-pennant",
+    "price": "13",
+    "regular_price": "14",
+    "sale_price": "13",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>15</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 33,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 67,
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "50",
+      "width": "50",
+      "height": "30"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "3.00",
+    "rating_count": 1,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "name": "Curd"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 141,
+        "date_created": "2019-07-19T04:54:51",
+        "date_created_gmt": "2019-07-19T04:54:51",
+        "date_modified": "2019-07-19T04:54:51",
+        "date_modified_gmt": "2019-07-19T04:54:51",
+        "src": "assets/images/products/curd/cup_curd.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 186,
+        "date_created": "2019-07-19T12:16:45",
+        "date_created_gmt": "2019-07-19T12:16:45",
+        "date_modified": "2019-07-19T12:16:45",
+        "date_modified_gmt": "2019-07-19T12:16:45",
+        "src": "assets/images/products/curd/cup_curd.jpg",
+        "name": "02",
+        "alt": ""
+      },
+      {
+        "id": 187,
+        "date_created": "2019-07-19T12:17:07",
+        "date_created_gmt": "2019-07-19T12:17:07",
+        "date_modified": "2019-07-19T12:17:07",
+        "date_modified_gmt": "2019-07-19T12:17:07",
+        "src": "assets/images/products/curd/cup_curd.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 189,
+        "date_created": "2019-07-19T12:17:08",
+        "date_created_gmt": "2019-07-19T12:17:08",
+        "date_modified": "2019-07-19T12:17:08",
+        "date_modified_gmt": "2019-07-19T12:17:08",
+        "src": "assets/images/products/curd/cup_curd.jpg",
+        "name": "03",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Color",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "#000000"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Size",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "L",
+          "M",
+          "S"
+        ]
+      }
+    ],
+    "default_attributes": []
+  },
+  {
+    "id": 17,
+    "name": "Chockova",
+    "date_created": "2019-07-18T07:02:04",
+    "date_created_gmt": "2019-07-18T07:02:04",
+    "date_modified": "2019-08-27T11:48:15",
+    "date_modified_gmt": "2019-08-27T11:48:15",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "Material: Polyresin\nColor: Brown/Gold\nStyle: Contemporary\nWidth: 10 Inches 26.6 (cm)\nLength: 11 Inches 28.5 (cm)\nHeight: 11 Inches 28.5 (cm)",
+    "short_description": "Material: Polyresin\nColor: Brown/Gold\nStyle: Contemporary\nWidth: 10 Inches 26.6 (cm)\nLength: 11 Inches 28.5 (cm)\nHeight: 11 Inches 28.5 (cm)",
+    "sku": "wp-pennant",
+    "price": "9",
+    "regular_price": "10",
+    "sale_price": "9",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>15</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 33,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 67,
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "50",
+      "width": "50",
+      "height": "30"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "3.00",
+    "rating_count": 1,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "name": "Sweets"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 141,
+        "date_created": "2019-07-19T04:54:51",
+        "date_created_gmt": "2019-07-19T04:54:51",
+        "date_modified": "2019-07-19T04:54:51",
+        "date_modified_gmt": "2019-07-19T04:54:51",
+        "src": "assets/images/products/sweets/chockova.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 186,
+        "date_created": "2019-07-19T12:16:45",
+        "date_created_gmt": "2019-07-19T12:16:45",
+        "date_modified": "2019-07-19T12:16:45",
+        "date_modified_gmt": "2019-07-19T12:16:45",
+        "src": "assets/images/products/sweets/chockova.jpg",
+        "name": "02",
+        "alt": ""
+      },
+      {
+        "id": 187,
+        "date_created": "2019-07-19T12:17:07",
+        "date_created_gmt": "2019-07-19T12:17:07",
+        "date_modified": "2019-07-19T12:17:07",
+        "date_modified_gmt": "2019-07-19T12:17:07",
+        "src": "assets/images/products/sweets/chockova.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 189,
+        "date_created": "2019-07-19T12:17:08",
+        "date_created_gmt": "2019-07-19T12:17:08",
+        "date_modified": "2019-07-19T12:17:08",
+        "date_modified_gmt": "2019-07-19T12:17:08",
+        "src": "assets/images/products/sweets/chockova.jpg",
+        "name": "03",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 2,
+        "name": "Brand",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "Carters's",
+          "Faballey"
+        ]
+      }
+    ],
+    "default_attributes": []
+  },
+  {
+    "id": 20,
+    "name": "Orange Burst",
+    "date_created": "2019-07-18T07:02:04",
+    "date_created_gmt": "2019-07-18T07:02:04",
+    "date_modified": "2019-08-27T11:48:15",
+    "date_modified_gmt": "2019-08-27T11:48:15",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "This adorable dress features denim fabric, round neck, short sleeve styling, solid color design, back zipper closure. Matching bet included. Make sure to add it to your wardrobe and you will love it.",
+    "short_description": "This adorable dress features denim fabric, round neck, short sleeve styling, solid color design, back zipper closure. Matching bet included. Make sure to add it to your wardrobe and you will love it.",
+    "sku": "wp-pennant",
+    "price": "7",
+    "regular_price": "8",
+    "sale_price": "6",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>15</span>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 33,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 67,
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "50",
+      "width": "50",
+      "height": "30"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "3.00",
+    "rating_count": 1,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "name": "Sweets"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 141,
+        "date_created": "2019-07-19T04:54:51",
+        "date_created_gmt": "2019-07-19T04:54:51",
+        "date_modified": "2019-07-19T04:54:51",
+        "date_modified_gmt": "2019-07-19T04:54:51",
+        "src": "assets/images/products/sweets/orange_burst.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 186,
+        "date_created": "2019-07-19T12:16:45",
+        "date_created_gmt": "2019-07-19T12:16:45",
+        "date_modified": "2019-07-19T12:16:45",
+        "date_modified_gmt": "2019-07-19T12:16:45",
+        "src": "assets/images/products/sweets/orange_burst.jpg",
+        "name": "02",
+        "alt": ""
+      },
+      {
+        "id": 187,
+        "date_created": "2019-07-19T12:17:07",
+        "date_created_gmt": "2019-07-19T12:17:07",
+        "date_modified": "2019-07-19T12:17:07",
+        "date_modified_gmt": "2019-07-19T12:17:07",
+        "src": "assets/images/products/sweets/orange_burst.jpg",
+        "name": "01",
+        "alt": ""
+      },
+      {
+        "id": 189,
+        "date_created": "2019-07-19T12:17:08",
+        "date_created_gmt": "2019-07-19T12:17:08",
+        "date_modified": "2019-07-19T12:17:08",
+        "date_modified_gmt": "2019-07-19T12:17:08",
+        "src": "assets/images/products/sweets/orange_burst.jpg",
+        "name": "03",
+        "alt": ""
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Color",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "#000000",
+          "#BDBDBD",
+          "#dd0202"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Size",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "M",
+          "S"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Brand",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "Carter's",
+          "Fendi"
+        ]
+      }
+    ],
+    "default_attributes": []
+  }
+
+]

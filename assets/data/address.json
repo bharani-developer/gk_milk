@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "first_name": "Bharani",
+    "last_name": "Mayilvendhan",
+    "pinCode": "622001",
+    "city":"Pudukkottai",
+    "state": "Tamilnadu",
+    "address_type":"Home",
+    "address": "Suspendisse magna ante, sagittis nec dui et,",
+    "phone_number":"9566935886",
+    "country": "India"
+  },
+  {
+    "id": 2,
+    "first_name": "Karthikeyan",
+    "last_name": "Mayilvendhan",
+    "pinCode": "622001",
+    "city":"Pudukkottai",
+    "state": "Tamilnadu",
+    "address_type":"Home",
+    "address": "Suspendisse magna ante, sagittis nec dui et,",
+    "phone_number":"9566935886",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "first_name": "Kalaiselvi",
+    "last_name": "Shanmugam",
+    "pinCode": "622001",
+    "city":"Pudukkottai",
+    "state": "Tamilnadu",
+    "address_type":"Home",
+    "address": "Suspendisse magna ante, sagittis nec dui et,",
+    "phone_number":"9566935886",
+    "country": "India"
+  },
+  {
+    "id": 4,
+    "first_name": "Subbulakshmi",
+    "last_name": "Mayilvendhan",
+    "pinCode": "622001",
+    "city":"Pudukkottai",
+    "state": "Tamilnadu",
+    "address_type":"Home",
+    "address": "Suspendisse magna ante, sagittis nec dui et,",
+    "phone_number":"9566935886",
+    "country": "India"
+  },
+  {
+    "id": 5,
+    "first_name": "Meena",
+    "last_name": "Mayilvendhan",
+    "pinCode": "622001",
+    "city":"Pudukkottai",
+    "state": "Tamilnadu",
+    "address_type":"Home",
+    "address": "Suspendisse magna ante, sagittis nec dui et,",
+    "phone_number":"9566935886",
+    "country": "India"
+  },
+  {
+    "id": 6,
+    "first_name": "Rajeshwari",
+    "last_name": "Ramakrishnan",
+    "pinCode": "622001",
+    "city":"Pudukkottai",
+    "state": "Tamilnadu",
+    "address_type":"Home",
+    "address": "Suspendisse magna ante, sagittis nec dui et,",
+    "phone_number":"9566935886",
+    "country": "India"
+  }
+]
